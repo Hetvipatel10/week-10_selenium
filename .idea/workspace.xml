@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="538b9fd2-0fb2-4e7c-886f-b6195fc86d34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hw10_Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/drivers/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herokuapp/ChromeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herokuapp/EdgeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herokuapp/FirefoxTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herokuapp/Multibrowsing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orangehrmlive/ChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orangehrmlive/EdgeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orangehrmlive/FireFoxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orangehrmlive/Multibrowersing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saucedemo/ChromeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saucedemo/EdgeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saucedemo/Firefoxtest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/saucedemo/Multibrowsering2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utimateqa/ChromeTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utimateqa/EdgeTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utimateqa/FirefoxTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utimateqa/Multibrowsering3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KOFlJFxltGhcMvnHUIVEgRwcDz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/Hw10_Selenium/src/drivers&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\Hw10_Selenium\src\drivers" />
+      <recent name="C:\Homework\Hw10_Selenium\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Multibrowsing1">
+    <configuration name="EdgeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saucedemo.EdgeTest2" />
+      <module name="Hw10_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utimateqa.EdgeTest3" />
+      <module name="Hw10_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utimateqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multibrowsering2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="saucedemo.Multibrowsering2" />
+      <module name="Hw10_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="saucedemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multibrowsering3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utimateqa.Multibrowsering3" />
+      <module name="Hw10_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utimateqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multibrowsing1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="herokuapp.Multibrowsing1" />
+      <module name="Hw10_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="herokuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Multibrowsing1" />
+        <item itemvalue="Application.Multibrowsering2" />
+        <item itemvalue="Application.EdgeTest2" />
+        <item itemvalue="Application.Multibrowsering3" />
+        <item itemvalue="Application.EdgeTest3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="538b9fd2-0fb2-4e7c-886f-b6195fc86d34" name="Changes" comment="" />
+      <created>1673837872691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673837872691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/orangehrmlive/ChromeTest.java</url>
+          <line>10</line>
+          <properties class="orangehrmlive.ChromeTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hw10_Selenium$Multibrowersing.ic" NAME="Multibrowersing Coverage Results" MODIFIED="1673842559300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>browsertesting.*</FILTER>
+    </SUITE>
+  </component>
+</project>
